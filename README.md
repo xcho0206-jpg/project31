@@ -30,3 +30,12 @@
 ---
 
 ## 📂 프로젝트 구조
+
+# 🔥 추가 (간지 버전 배지 포함)
+
+원하면 이것도 위에 붙여 👇
+
+```md
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Model](https://img.shields.io/badge/Model-ResNet50-red)
+![Framework](https://img.shields.io/badge/Framework-Streamlit-green)
